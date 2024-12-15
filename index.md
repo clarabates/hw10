@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Battery Low: An Analysis of Washington State’s Electric Vehicle (EV) Charger Distribution"
+title: Battery Low: An Analysis of Washington State’s Electric Vehicle (EV) Charger Distribution
 ---
 
 ## Introduction
