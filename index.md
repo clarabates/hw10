@@ -24,7 +24,7 @@ Based on the map, King County has the most EV charging stations, and roughly 35 
 
 The second visualization was a box plot of EV population by county. Similar to the other plot, the color indicates the ratio of EVs to charging stations in a county. 
 
-{% include_relative assets/EVCount.html %}
+{% include assets/EVCount.html %}
 
 As expected, King County has the highest number of EVs, followed by Snohomish and Pierce County. This visualization also supports the claim that counties with more EVs have proportionally fewer charging stations.
 
