@@ -18,13 +18,13 @@ We began by loading the CSV files into pandas dataframes, selecting the columns 
 
 To analyze the data, we created two different visualizations. The first was a Mapbox scatterplot of EV charging stations by county. The size of the dot represents the number of EV charging stations, and the color of the dot represents the number of EVs per charging station.
 
-{% include_relative assets1/EVmap.html %}
+{% include_relative EVmap.html %}
 
 Based on the map, King County has the most EV charging stations, and roughly 35 EVs per charging station. Counties with fewer EV charging stations also appear to have fewer EVs per charging station.
 
 The second visualization was a box plot of EV population by county. Similar to the other plot, the color indicates the ratio of EVs to charging stations in a county. 
 
-{% include_relative assets1/EVCount.html %}
+{% include_relative EVCount.html %}
 
 As expected, King County has the highest number of EVs, followed by Snohomish and Pierce County. This visualization also supports the claim that counties with more EVs have proportionally fewer charging stations.
 
